@@ -2,7 +2,9 @@
 
 ## About
 
-Pee Mak is my favorite Thai movie. It is a comedy-horror film that tells the story of Mak, who returns home after a war and reunites with his wife, Nak.
+**Pee Mak** is my favorite Thai movie.
+
+> A comedy-horror movie from Thailand.
 
 ### Main Characters
 
@@ -14,11 +16,8 @@ Pee Mak is my favorite Thai movie. It is a comedy-horror film that tells the sto
 
 ### Why I Like It
 
-- Funny and entertaining
-- Interesting story
-- Good balance of comedy and horror
-- Memorable characters
+1. Funny
+2. Interesting story
+3. Memorable characters
 
-### Rating
-
-**10/10**
+**Rating: 10/10**
